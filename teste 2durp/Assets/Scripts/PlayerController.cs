@@ -27,8 +27,8 @@ bool isWalking = false;
         {
             var move = new Vector3(input_x, input_y, 0).normalized;
             transform.position += move * speed * Time.deltaTime;
-            playerAnimator.SetFloat("input_x", input_y);
-            playerAnimator.SetFloat("input_y", input_x);
+            playerAnimator.SetFloat("input_x", input_x);
+            playerAnimator.SetFloat("input_y", input_y);
         }
         playerAnimator.SetBool("isWalking", isWalking);
 
