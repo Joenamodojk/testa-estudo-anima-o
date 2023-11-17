@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1f72c7-b66e-44ba-992c-9b4f7f4a0917" name="Changes" comment="" />
+    <list default="true" id="4f1f72c7-b66e-44ba-992c-9b4f7f4a0917" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.teste 2durp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.teste 2durp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attack_Down.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attack_Down.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attack_Left.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attack_Left.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attack_Rigth.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attack_Rigth.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attack_Up.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attack_Up.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/HumanController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/HumanController.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Idle_Right.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Idle_Right.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Run_Left.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Run_Left.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Run_Rigth.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Run_Rigth.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Run_Up.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Run_Up.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/idle_Down.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/idle_Down.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/idle_Left.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/idle_Left.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/idle_Up.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/idle_Up.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/run_Down.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/run_Down.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Patreon sprites 1/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Patreon sprites 1/4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/boneca player/Female 05-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/boneca player/Female 05-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/boneca player/Female 13-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/boneca player/Female 13-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +109,7 @@
       <updated>1699447642132</updated>
       <workItem from="1699447648796" duration="1277000" />
       <workItem from="1699614606104" duration="789000" />
+      <workItem from="1700218656001" duration="1087000" />
     </task>
     <servers />
   </component>
